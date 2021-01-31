@@ -5,4 +5,4 @@ You will receive __3 lines__ of input. On the __first line__ you will receive a 
 ## Example
 Input|Output
 -----|------
-SoftUni Article<br>Some content of the SoftUni article<br>some comment<br>more comment<br>last comment<br>end of comments|<pre>\<h1><br>  SoftUni Article<br>\</h1><br>\<article><br>    Some content of the SoftUni article<br>\</article><br>\<div><br>    some comment<br>\</div><br>\<div><br>    more comment<br>\</div><br>\<div><br>    last comment<br>\</div></pre>
+SoftUni Article<br>Some content of the SoftUni article<br>some comment<br>more comment<br>last comment<br>end of comments|<pre>\<h1><br>    SoftUni Article<br>\</h1><br>\<article><br>    Some content of the SoftUni article<br>\</article><br>\<div><br>    some comment<br>\</div><br>\<div><br>    more comment<br>\</div><br>\<div><br>    last comment<br>\</div></pre>
